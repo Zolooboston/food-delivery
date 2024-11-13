@@ -6,7 +6,7 @@ const PORT = 8000;
 
 server.use(cors());
 server.get("/", (request, response) => {
-  response.send(["Zoloo", "Zen"]);
+  response.send(["Zoloo", "Zen", "Buddhism"]);
 });
 
 server.listen(PORT, () => {
