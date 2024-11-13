@@ -30,7 +30,7 @@ export default function Home() {
           priority
         /> */}
         <h1 className="text-center text-black">ZOL ZEN</h1>
-        <p>Food delivery project added yeah</p>
+        <p>Food delivery projects</p>
 
         {/* <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
